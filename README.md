@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+### About Me
+
+💻 Coding my way through life, one bug at a time.
+
+### My Skills
+
+Languages: Occasionally argue with `JavaScript`.
+
+### Current Project
+
+🚧 Building something groundbreaking... until I hit another segmentation fault.
+
 <!--
 **wassim-kallel-tn/wassim-kallel-tn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
